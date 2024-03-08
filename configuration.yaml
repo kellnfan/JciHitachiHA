@@ -12,8 +12,8 @@ script: !include scripts.yaml
 scene: !include scenes.yaml
 
 jcihitachi_tw:
-  email: yourname@yourdomain.com
-  password: password
+  email: kellnfan@gmail.com
+  password: You-5574747
   devices:
     - DEVICE_A_NAME
     - DEVICE_B_NAME
